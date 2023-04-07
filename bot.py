@@ -4,7 +4,7 @@ from Def import *
 
 
 logging.basicConfig(level=logging.INFO)
-TOKEN = "6113000659:AAHEYmQ7Blnt-FWqsP8uGSpzJ6fudOP5USA"
+TOKEN = ('YOUR_TOKEN')
 bot = Bot(token=TOKEN)
 dp = Dispatcher(bot)
 
